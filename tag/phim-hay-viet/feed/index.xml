@@ -10,7 +10,7 @@
 <channel>
 	<title>Phim hay &#8211; ThanhSang </title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/phim-hay-viet/feed/" rel="self" type="application/rss+xml" />
-	<link>http://thanhsang2168.github.io/mywordpress</link>
+	<link>https://thanhsang2168.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 25 Aug 2021 04:25:50 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Tin tức bài viết mới nhất về: Phim Việt</title>
-		<link>http://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/</link>
-					<comments>http://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/#respond</comments>
+		<link>https://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/</link>
+					<comments>https://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/#respond</comments>
 		
 		<dc:creator><![CDATA[TranThanhSang]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 04:25:50 +0000</pubDate>
 				<category><![CDATA[phim hay]]></category>
 		<category><![CDATA[Phim hay]]></category>
 		<category><![CDATA[Phim hay Việt Nam]]></category>
-		<guid isPermaLink="false">http://thanhsang2168.github.io/mywordpress/?p=18</guid>
+		<guid isPermaLink="false">https://thanhsang2168.github.io/mywordpress/?p=18</guid>
 
 					<description><![CDATA[Hình ảnh nam thần khi diện quân phục của các diễn viên Hàn Quốc có lẽ không còn xa lạ với khán giả. Tuy nhiên khi các sao Việt diện quân phục cũng không hề kém cạnh với sự lịch lãm, bảnh bao đậm chất một quân nhân Việt Nam....]]></description>
 										<content:encoded><![CDATA[
@@ -42,7 +42,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/sao-viet-2.jpg" alt="" class="wp-image-26" width="584" height="407"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/sao-viet-2.jpg" alt="" class="wp-image-26" width="584" height="407"/></figure></div>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/baichinhtren-2-1.jpg" alt="" class="wp-image-28" width="696" height="391"/><figcaption><strong>Nghèo&#8230;&#8230;.</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/baichinhtren-2-1.jpg" alt="" class="wp-image-28" width="696" height="391"/><figcaption><strong>Nghèo&#8230;&#8230;.</strong></figcaption></figure></div>
 </div></div>
 
 
@@ -63,7 +63,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/10-Bo-Phim-Danh-Gia-Hay-Nhat-Viet-Nam-2.png" alt="" class="wp-image-33" width="613" height="409"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/10-Bo-Phim-Danh-Gia-Hay-Nhat-Viet-Nam-2.png" alt="" class="wp-image-33" width="613" height="409"/></figure></div>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/10-Bo-Phim-Danh-Gia-Hay-Nhat-Viet-Nam-4.png" alt="" class="wp-image-44" width="635" height="423"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/10-Bo-Phim-Danh-Gia-Hay-Nhat-Viet-Nam-4.png" alt="" class="wp-image-44" width="635" height="423"/></figure></div>
 
 
 
@@ -157,20 +157,20 @@
 
 <div class="wp-block-columns are-vertically-aligned-center">
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
-<a href='http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/SaiLamCuaChungTa-NQP-7073779.mp3'>Sai Lầm Của Chúng Ta</a>
-<a href='http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3'>Muộn Rồi Mà Sao Còn</a>
+<a href='https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/SaiLamCuaChungTa-NQP-7073779.mp3'>Sai Lầm Của Chúng Ta</a>
+<a href='https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/08/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3'>Muộn Rồi Mà Sao Còn</a>
 
 </div>
 </div>
 
 
 
-<a href='http://thanhsang2168.github.io/mywordpress/59/'><img width="150" height="150" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/09/SaiLamCuaChungTa-NQP-7073779-mp3-image.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-<a href='http://thanhsang2168.github.io/mywordpress/57/'><img width="150" height="150" src="http://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/09/MuonRoiMaSaoCon-SonTungMTP-7011803-mp3-image.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://thanhsang2168.github.io/mywordpress/59/'><img width="150" height="150" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/09/SaiLamCuaChungTa-NQP-7073779-mp3-image.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://thanhsang2168.github.io/mywordpress/57/'><img width="150" height="150" src="https://thanhsang2168.github.io/mywordpress/wp-content/uploads/2021/09/MuonRoiMaSaoCon-SonTungMTP-7011803-mp3-image.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
 
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/cswQ9AoJkas" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>]]></content:encoded>
 					
-					<wfw:commentRss>http://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thanhsang2168.github.io/mywordpress/tin-tuc-bai-viet-moi-nhat-ve-phim-viet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
