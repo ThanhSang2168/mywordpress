@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thanhsang2168.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:54:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 12:29:29 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,7 +38,7 @@
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-68aa9db4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68aa9db4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-312dcf56" data-id="312dcf56" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-312dcf56" data-id="312dcf56" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-73c5306a elementor-widget elementor-widget-text-editor" data-id="73c5306a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -153,6 +153,83 @@
 <p>Shop luôn bắt kịp các xu hướng thời trang hiện nay, lựa chọn và nhập về một loạt những item áo thun unisex đang rất được phái mạnh thế giới cũng như Việt Nam yêu thích. Đặc biệt, bảng giá tại đây được update liên tục, nhằm mang lại cho khách hàng mức giá ưu đãi và hợp lý nhất.</p>
 <p>&nbsp;</p>
 <iframe loading="lazy" width="560" height="550" src="https://www.youtube.com/embed/8stWJeFstlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0e9a0aa" data-id="0e9a0aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e3c30d5 elementor-widget elementor-widget-wp-widget-search" data-id="e3c30d5" data-element_type="widget" data-widget_type="wp-widget-search.default">
+				<div class="elementor-widget-container">
+			<h5>Tìm kiếm</h5>
+<form role="search" method="get" class="searchform" action="https://thanhsang2168.github.io/mywordpress/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Search this website</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+			</label>
+	</form>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-d6d1f26 elementor-widget elementor-widget-wp-widget-recent-posts" data-id="d6d1f26" data-element_type="widget" data-widget_type="wp-widget-recent-posts.default">
+				<div class="elementor-widget-container">
+			
+		
+		<h5>Bài viết</h5>
+		<ul>
+											<li>
+					<a href="https://thanhsang2168.github.io/mywordpress/top-10-shop-ban-ao-thun-nam-dep-noi-tieng-nhat/">Top 10 shop bán áo thun nam đẹp, nổi tiếng nhất&#8230;</a>
+									</li>
+					</ul>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dea065f elementor-widget elementor-widget-wp-widget-recent-comments" data-id="dea065f" data-element_type="widget" data-widget_type="wp-widget-recent-comments.default">
+				<div class="elementor-widget-container">
+			<h5>Phản hồi</h5><ul id="recentcomments"></ul>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c9d964c elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="c9d964c" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9f04d00 elementor-widget elementor-widget-wp-widget-calendar" data-id="9f04d00" data-element_type="widget" data-widget_type="wp-widget-calendar.default">
+				<div class="elementor-widget-container">
+			<h5>Lịch</h5><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>Tháng Mười 2021</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Thứ Hai">H</th>
+		<th scope="col" title="Thứ Ba">B</th>
+		<th scope="col" title="Thứ Tư">T</th>
+		<th scope="col" title="Thứ Năm">N</th>
+		<th scope="col" title="Thứ Sáu">S</th>
+		<th scope="col" title="Thứ Bảy">B</th>
+		<th scope="col" title="Chủ Nhật">C</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td id="today">1</td><td>2</td><td>3</td>
+	</tr>
+	<tr>
+		<td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+	</tr>
+	<tr>
+		<td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+	</tr>
+	<tr>
+		<td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Tháng trước và tháng tới" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://thanhsang2168.github.io/mywordpress/2021/08/">&laquo; Th8</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div>		</div>
 				</div>
 					</div>
 		</div>

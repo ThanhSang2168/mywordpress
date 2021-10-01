@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thanhsang2168.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 14:39:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 15:12:55 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Quà tặng khi mua đủ 5000000 đồng</title>
+		<link>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/qua-tang-khi-mua-du-5000000-dong/</link>
+					<comments>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/qua-tang-khi-mua-du-5000000-dong/#respond</comments>
+		
+		<dc:creator><![CDATA[TranThanhSang]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 12:38:42 +0000</pubDate>
+				<guid isPermaLink="false">https://thanhsang2168.github.io/mywordpress/?post_type=product&#038;p=470</guid>
+
+					<description><![CDATA[Gói quà tặng giá trị ngẫu nhiên khi bạn mua gói hàng lên đến 5000000 đồng.]]></description>
+										<content:encoded><![CDATA[<p>Gói quà tặng giá trị ngẫu nhiên khi bạn mua gói hàng lên đến 5000000 đồng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/qua-tang-khi-mua-du-5000000-dong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Áo thun tay ngắn 10</title>
 		<link>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-tay-ngan-12/</link>
 					<comments>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-tay-ngan-12/#respond</comments>
@@ -176,24 +194,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-nam-6/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Áo thun nam 4</title>
-		<link>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-nam-5/</link>
-					<comments>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-nam-5/#respond</comments>
-		
-		<dc:creator><![CDATA[TranThanhSang]]></dc:creator>
-		<pubDate>Fri, 24 Sep 2021 10:31:33 +0000</pubDate>
-				<guid isPermaLink="false">https://thanhsang2168.github.io/mywordpress/?post_type=product&#038;p=361</guid>
-
-					<description><![CDATA[Kappa áo thun có cổ nam K0952PD92 454]]></description>
-										<content:encoded><![CDATA[<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper">Kappa áo thun có cổ nam K0952PD92 454</span></h1>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-nam-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
