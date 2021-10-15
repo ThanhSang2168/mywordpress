@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/nhom-san-pham/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thanhsang2168.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 09:58:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Oct 2021 03:23:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,9 @@
 		<pubDate>Fri, 24 Sep 2021 10:45:35 +0000</pubDate>
 				<guid isPermaLink="false">https://thanhsang2168.github.io/mywordpress/?post_type=product&#038;p=369</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Áo thun nam đẹp nhất&#8230;.]]></description>
+										<content:encoded><![CDATA[<p>Áo thun nam đẹp nhất&#8230;.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://thanhsang2168.github.io/mywordpress/sản%20phẩm/ao-thun-tay-ngan-10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
