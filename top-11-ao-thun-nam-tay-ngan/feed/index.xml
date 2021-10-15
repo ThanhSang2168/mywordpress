@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho ThanhSang 	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thanhsang2168.github.io/mywordpress</link>
+	Các phản hồi luận về: Top 11 Áo thun nam tay ngắn hàng hiệu được yêu thích nhất hiện nay.	</title>
+	<atom:link href="http://localhost/myproject/wordpress/top-11-ao-thun-nam-tay-ngan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thanhsang2168.github.io/mywordpress/top-11-ao-thun-nam-tay-ngan/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 15 Oct 2021 15:29:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Oct 2021 15:27:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
